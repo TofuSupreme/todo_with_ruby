@@ -1,5 +1,3 @@
-# NOTE: Responsible for put and get from the user
-
 class TasksView
   def display(tasks)
     tasks.each_with_index do |task, index|

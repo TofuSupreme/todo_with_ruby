@@ -1,5 +1,3 @@
-# TODO: Build a TODO manager
-# NOTE: A model for the TODO manager
 class Task
   attr_reader :description
 

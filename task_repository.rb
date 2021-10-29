@@ -1,8 +1,6 @@
-# NOTE: A repository of the tasks (Holds all of the model)
-
 class TaskRepository
   def initialize
-    @tasks = [] # NOTE: Array of Tasks instanes. NOT an array of strings!
+    @tasks = []
   end
 
   def add(task)
